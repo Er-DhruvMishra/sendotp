@@ -1,0 +1,21 @@
+{
+  "name": "er.dhruvmishra/sendotp",
+  "description": "A PHP library to send OTP messages using MSG91 API (PHP 8.2 compatible)",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Dhruv Mishra",
+          "email": "er.dhruvmishra@gmail.com"
+      }
+  ],
+  "autoload": {
+      "psr-4": {
+          "SendOtp\\": "src/"
+      }
+  },
+  "keywords": ["msg91", "sendotp", "client"],
+  "require": {
+      "php": ">=8.2"
+  }
+}

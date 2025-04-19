@@ -16,6 +16,6 @@
   },
   "keywords": ["msg91", "sendotp", "client"],
   "require": {
-      "php": ">=8.2"
+      "php": ">=7.2"
   }
 }
